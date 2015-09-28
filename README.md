@@ -1,2 +1,1 @@
-# non-github-issues
-Issues I've filed at places other than GitHub.
+This repo is for tracking issues I've filed for projects that don't use GitHub for issue tracking. Those issues have an unfortunate tendency to disappear into black holes or be poorly handled. (One of the things I really like about GitHub is that issues are more visible and people are therefore more accountable for how they handle them.) While listing them here won't change much, I at least don't want my effort to disappear into a black hole of invisibility.
